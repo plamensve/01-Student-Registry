@@ -55,4 +55,3 @@ function setup(app, students) {
 
 module.exports = { setup };
 
-// dasd
